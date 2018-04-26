@@ -1,0 +1,18 @@
+{
+    "name": "gengyang/qy",
+    "authors": [
+        {
+            "name": "gengyang",
+            "email": "997485446@qq.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0"
+  	},
+  	"autoload": {
+		"psr-4": {
+		  "Flower\\Rose\\": "src/Flower/Rose",
+		  "Flower\\Lily\\": "src/Flower/Lily"
+		}
+  	}
+}

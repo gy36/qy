@@ -1,11 +1,15 @@
 {
     "name": "gengyang/qy",
+	"description": "try make a package",
+  	"type": "library",
+  	"license": "MIT",
     "authors": [
         {
             "name": "gengyang",
             "email": "997485446@qq.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {
     	"php": ">=7.0"
   	},
